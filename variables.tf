@@ -1,6 +1,6 @@
 variable "ami" {
   type        = string
-  default     = "SUSE Linux Enterprise Server 12 SP5"
+  default     = ""
 }
 
 variable "instance_type" {
